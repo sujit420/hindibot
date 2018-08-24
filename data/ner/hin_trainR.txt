@@ -1,0 +1,2004 @@
+hinA	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+puswI	NOUN	B-Person
+xoRI	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mITI	VERB	B-Person
+ke	ADP	O
+lie	ADP	O
+buka	NUM	O
+kEba	NOUN	O
+
+kqpayA	ADV	O
+BAgIrAWa	PROPN	B-Person
+caMdolA	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mEM	PRON	O
+wirupawi	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	O
+haraxoI	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	O
+jAlanA	PROPN	B-Loc
+se	ADP	O
+sahArA	PROPN	B-Loc
+iMdiyA	PROPN	I-Loc
+parivAra	NOUN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+CiMxavAdZA	PROPN	B-Loc
+se	ADP	O
+XubarI	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+karane	VERB	O
+ke	ADP	O
+lie	ADP	O
+Bexacala	PROPN	O
+
+mArca	PROPN	O
+se	ADP	O
+buka	NOUN	O
+tEksI	NOUN	O
+ArA	PROPN	B-Loc
+se	ADP	O
+jAlI	ADJ	B-Loc
+grAMta	NOUN	I-Loc
+eyaraporta	NOUN	I-Loc
+
+xevanikA	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+nIlakAMwa	ADJ	B-Person
+pevara	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+ravi	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+menakA	PROPN	B-Person
+nAyara	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+umA	PROPN	B-Person
+se	ADP	O
+uramA	PROPN	B-Loc
+se	ADP	O
+jaSapura	PROPN	B-Loc
+waka	ADP	O
+buka	NOUN	O
+kEba	NOUN	O
+
+mEM	PRON	B-Person
+jEsalamera	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+parihAra	NOUN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+GarOMdA	PROPN	B-Loc
+se	ADP	O
+yuskavarIja	PROPN	B-Loc
+samUha	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+bijanOra	PROPN	B-Loc
+se	ADP	O
+rAyacUra	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mere	PRON	B-Person
+lie	ADP	O
+jEnagara	PROPN	B-Loc
+ko	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+mArca	PROPN	O
+se	ADP	O
+buka	NOUN	O
+tEksI	NOUN	O
+mAlaxA	PROPN	B-Loc
+se	ADP	O
+jAmanagara	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+waka	ADP	O
+
+lokaparakASa	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+kqRNA	PROPN	B-Person
+halaxara	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+kAlInadI	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+wuRAra	PROPN	B-Person
+XAra	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+bIkAnera	PROPN	B-Loc
+se	ADP	O
+unnAva	PROPN	B-Loc
+waka	ADP	O
+rASi	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+mEM	PRON	B-Person
+vArANasI	PROPN	B-Loc
+havAI	NOUN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+vadoxarA	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+saMbalapura	PROPN	B-Loc
+se	ADP	O
+jeta	PROPN	B-Loc
+eyaraveja	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+wejapura	PROPN	B-Loc
+se	ADP	O
+mowihArI	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+qRikeSa	PROPN	B-Loc
+ke	ADP	O
+lie	ADP	O
+mere	PRON	O
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+buka	NOUN	O
+tEksI	NOUN	O
+se	ADP	O
+xisambara	PROPN	O
+sehAta	PROPN	B-Loc
+se	ADP	O
+kullU	PROPN	B-Loc
+eyaraporta	PROPN	I-Loc
+waka	ADP	O
+
+_Chatrica_	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+iMxirA	PROPN	B-Person
+WApara	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mInA	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+wIrWa	NOUN	B-Person
+KoMdakara	VERB	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+buka	PROPN	O
+kEba	PROPN	O
+POYra	PROPN	O
+era	PROPN	O
+se	ADP	O
+BadZOca	PROPN	B-Loc
+se	ADP	O
+jaSapura	PROPN	B-Loc
+waka	ADP	O
+
+mEM	PRON	B-Person
+Cawrapawi	PROPN	B-Loc
+jAnA	VERB	O
+cAhawA	VERB	O
+hUM	AUX	O
+mahArAja	PROPN	B-Loc
+SivAjI	PROPN	I-Loc
+aMwararARtrIya	PROPN	I-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+
+mEM	PRON	B-Person
+rAyabarelI	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+rAyabarelI	PROPN	B-Loc
+se	ADP	O
+hIro	NOUN	B-Loc
+hoMdA	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+hanama	PROPN	B-Loc
+sedA	NOUN	I-Loc
+se	ADP	O
+kErA	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+karane	VERB	O
+ke	ADP	O
+lie	ADP	O
+arAkoNama	PROPN	B-Loc
+
+bukara	PROPN	O
+tEksI	PROPN	O
+para	ADP	O
+vIravAra	PROPN	O
+se	ADP	O
+hubalI	PROPN	B-Loc
+se	ADP	O
+bilAsapura	PROPN	B-Loc
+eyaraporta	NOUN	I-Loc
+waka	ADP	O
+
+BAgyalakRmI	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+caMxrA	PROPN	B-Person
+pawaMga	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+ravi	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+pUjA	NOUN	B-Person
+wirumUlapa	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+buka	PROPN	O
+kEba	PROPN	O
+POYra	PROPN	O
+kalpiwA	PROPN	B-Person
+se	ADP	O
+jAMgIpura	PROPN	B-Loc
+se	ADP	O
+xevariyA	PROPN	B-Loc
+waka	ADP	O
+
+mEM	PRON	B-Person
+Cawrapawi	PROPN	B-Loc
+jAnA	VERB	O
+cAhawA	VERB	O
+hUM	AUX	O
+mahArAja	PROPN	B-Loc
+SivAjI	PROPN	I-Loc
+aMwararARtrIya	PROPN	I-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+
+mEM	PRON	B-Person
+hoSiyArapura	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+wenAlI	PROPN	B-Loc
+se	ADP	O
+hIro	NOUN	B-Loc
+hoMdA	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+deharI	PROPN	B-Loc
+se	ADP	O
+suwAlAnagaMja	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+baharAIca	PROPN	B-Loc
+ke	ADP	O
+lie	ADP	O
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+buka	NOUN	O
+tEksI	NOUN	O
+se	ADP	O
+ravivAra	PROPN	O
+se	ADP	O
+lekara	VERB	O
+jabalapura	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+waka	ADP	O
+
+nexA	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+sawyavawI	PROPN	B-Person
+KannA	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+xivAkara	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+kqpayA	ADV	O
+qRaBa	PROPN	B-Person
+harI	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+kolAra	PROPN	B-Loc
+se	ADP	O
+jasIdIha	PROPN	B-Loc
+waka	ADP	O
+namrawA	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+mEM	PRON	B-Person
+wirupawi	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+itAvA	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+bagahA	PROPN	B-Loc
+se	ADP	O
+BArawI	PROPN	B-Loc
+iMtaraprAijeja	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+mumbaI	PROPN	B-Loc
+se	ADP	O
+porabaMxara	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+gudZagAMva	PROPN	B-Loc
+ke	ADP	O
+lie	ADP	O
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+buXavAra	PROPN	O
+ko	ADP	O
+buka	NOUN	O
+tEksI	NOUN	O
+se	ADP	O
+mEgo	PROPN	B-Loc
+se	ADP	O
+SrInagara	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+waka	ADP	O
+
+pallavI	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+raMjana	PROPN	B-Person
+xaSa	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+harRinI	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+kAminI	PROPN	B-Person
+jaMpanA	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+kiwAba	NOUN	O
+kEba	NOUN	O
+ke	ADP	O
+lie	ADP	O
+uRmA	NOUN	B-Loc
+se	ADP	O
+haraxoI	PROPN	B-Loc
+se	ADP	O
+sAsArAma	PROPN	B-Loc
+waka	ADP	O
+
+mEM	PRON	B-Person
+vArANasI	PROPN	B-Loc
+havAI	NOUN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+jayanagara	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+baharIIca	PROPN	B-Loc
+se	ADP	O
+vIdiyokOYna	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+rAjamahala	NOUN	B-Loc
+se	ADP	O
+maCalIpattanama	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+AgarA	PROPN	B-Loc
+ke	ADP	O
+lie	ADP	O
+mere	PRON	O
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+boXagayA	PROPN	B-Loc
+se	ADP	O
+rAjamuMxarI	PROPN	B-Loc
+eyaraporta	NOUN	I-Loc
+waka	ADP	O
+Sanicara	NOUN	O
+para	ADP	O
+puswaka	NOUN	O
+tEksI	NOUN	O
+
+sukumAra	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+vawsala	PROPN	B-Person
+siMha	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+karukA	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+maXulikA	PROPN	B-Person
+xvivexI	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+jammagIpura	PROPN	B-Loc
+se	ADP	O
+wenAlI	PROPN	B-Loc
+waka	ADP	O
+yaSoXarA	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+mEM	PRON	B-Person
+rARtrIya	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+meraWa	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+agarawalA	PROPN	B-Loc
+se	ADP	O
+neSanala	PROPN	B-Loc
+Warmala	PROPN	I-Loc
+pAvara	PROPN	I-Loc
+nigama	PROPN	I-Loc
+enatIpIsI	PROPN	B-Loc
+
+ItAnagara	PROPN	B-Loc
+se	ADP	O
+arariyA	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+Ayojiwa	ADJ	O
+kareM	VERB	O
+sarAyakelA	PROPN	B-Loc
+KarasAMvAM	PROPN	I-Loc
+
+SanivAra	PROPN	O
+ko	ADP	O
+buka	NOUN	O
+tEksI	NOUN	O
+Apakura	PROPN	B-Loc
+se	ADP	O
+birasA	PROPN	B-Loc
+muMdA	PROPN	I-Loc
+havAI	NOUN	I-Loc
+adde	PROPN	I-Loc
+waka	ADP	O
+
+kqwi	NOUN	O
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+aBie	PRON	B-Person
+caMxAvarakara	VERB	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+vESAlI	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+saMxIpa	PROPN	B-Person
+vAnagapaMdu	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+puswaka	NOUN	O
+kEba	PROPN	O
+POYra	PROPN	O
+sqmoMtinI	PROPN	B-Loc
+se	ADP	O
+xevAsa	PROPN	B-Loc
+se	ADP	O
+maXubanI	PROPN	B-Loc
+waka	ADP	O
+
+mEM	PRON	O
+caMdIgaDZa	PROPN	B-Loc
+havAI	NOUN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+jUnAgaDZa	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+joXapura	PROPN	B-Loc
+se	ADP	O
+lArsana	PROPN	B-Loc
+EMda	PROPN	I-Loc
+tubro	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+GAtaSilA	PROPN	B-Loc
+se	ADP	O
+naMxaxedZa	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+karane	VERB	O
+ke	ADP	O
+lie	ADP	O
+bihiyA	VERB	O
+
+puswaka	NOUN	O
+tEksI	NOUN	O
+para	ADP	O
+vIravAra	PROPN	O
+se	ADP	O
+pawarAwU	NOUN	B-Loc
+se	ADP	O
+lekarananagara	PROPN	B-Loc
+havAI	NOUN	I-Loc
+adde	NOUN	I-Loc
+waka	ADP	O
+
+viRNu	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+saMcIwA	NOUN	B-Person
+saMkaramaMcI	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+amola	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+kqpayA	ADV	O
+pArwA	NOUN	B-Person
+marAja	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+porta	PROPN	B-Loc
+bleyara	PROPN	I-Loc
+se	ADP	O
+BInamAla	PROPN	B-Loc
+waka	ADP	O
+samrAta	NOUN	O
+ke	ADP	O
+lie	ADP	O
+buka	X	O
+kEba	NOUN	O
+
+mEM	PRON	B-Person
+rAjA	NOUN	B-Loc
+sAzsI	PROPN	I-Loc
+havAI	PROPN	I-Loc
+aMwararARtrIya	PROPN	I-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+jagaxalapura	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+cakraXarapura	PROPN	B-Loc
+se	ADP	O
+jiMxala	PROPN	B-Loc
+stIla	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+BaxrAcala	PROPN	B-Loc
+se	ADP	O
+lAmadiMga	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+maMxasOra	PROPN	B-Loc
+ke	ADP	O
+lie	ADP	O
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+SanivAra	PROPN	O
+ko	ADP	O
+sIwApura	PROPN	B-Loc
+se	ADP	O
+koyaMbawUra	PROPN	B-Loc
+eyaraporta	PROPN	I-Loc
+waka	ADP	O
+buka	X	O
+tEksI	NOUN	O
+
+guru	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+harilAla	PROPN	B-Person
+muxarawA	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+rUpina	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+vijaya	PROPN	B-Person
+palAlA	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+puswaka	NOUN	O
+kEba	NOUN	O
+ke	ADP	O
+lie	ADP	O
+ila	PROPN	O
+se	ADP	O
+kolhApura	PROPN	B-Loc
+se	ADP	O
+laKIsarAya	PROPN	B-Loc
+waka	ADP	O
+
+mEM	PRON	B-Person
+birasA	PROPN	B-Loc
+muMdA	PROPN	I-Loc
+havAI	NOUN	I-Loc
+adde	NOUN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+iMPAla	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+praxIpeta	PROPN	B-Loc
+se	ADP	O
+yUniyana	PROPN	B-Loc
+bEMka	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+cunAra	NOUN	B-Loc
+se	ADP	O
+karanAla	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+karane	VERB	O
+ke	ADP	O
+lie	ADP	O
+aMbAlA	PROPN	B-Loc
+
+SivagaMgA	PROPN	B-Loc
+se	ADP	O
+birasA	PROPN	B-Loc
+muMdA	PROPN	I-Loc
+eyaraporta	NOUN	I-Loc
+waka	ADP	O
+Sanicara	NOUN	O
+para	ADP	O
+puswaka	NOUN	O
+tEksI	NOUN	O
+
+SEleMxra	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+manu	PROPN	B-Person
+seTI	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+himAnI	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+ekcUmawi	NOUN	B-Person
+bapawa	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+_filalaur_	PROPN	B-Loc
+se	ADP	O
+patiyAlA	PROPN	B-Loc
+waka	ADP	O
+nirmala	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+mEM	PRON	B-Person
+kAnapura	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+hApudZa	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+cakraXarapura	PROPN	B-Loc
+se	ADP	O
+apolo	PROPN	B-Loc
+aspawAla	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+rAjakota	PROPN	B-Loc
+se	ADP	O
+GodZIGara	NOUN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+AxilAbAxa	PROPN	B-Loc
+ke	ADP	O
+lie	ADP	O
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+SukravAra	PROPN	O
+ko	ADP	O
+bukakA	VERB	O
+tEksI	NOUN	O
+se	ADP	O
+kAlakA	PROPN	B-Loc
+se	ADP	O
+bilAsapura	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+waka	ADP	O
+
+vikrameMdarA	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+jAnu	PROPN	B-Person
+lAlA	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+maNiSaMkara	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+SElA	PROPN	B-Person
+malhowrA	PROPN	I-Person
+​​ke	PRON	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+jogabanI	PROPN	B-Loc
+se	ADP	O
+iMdipeta	NOUN	B-Loc
+waka	ADP	O
+BUmi	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+mEM	PRON	B-Person
+gagagala	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+xisapura	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+SolApura	PROPN	B-Loc
+se	ADP	O
+axAnI	PROPN	B-Loc
+samUha	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+barOnI	PROPN	B-Loc
+se	ADP	O
+itAvA	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+hAPa	NOUN	B-Person
+lAMga	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+mere	PRON	O
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+aktUbara	PROPN	O
+se	ADP	O
+buka	NOUN	O
+tEksI	NOUN	O
+loharaxaggA	PROPN	B-Loc
+se	ADP	O
+jammU	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+waka	ADP	O
+
+premala	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+suxevI	PROPN	B-Person
+dI'kostA	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+urmilA	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+SaSAMka	PROPN	B-Person
+BArgavA	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+ciwwOdZagaDZa	PROPN	B-Loc
+se	ADP	O
+kurukRewra	PROPN	B-Loc
+waka	ADP	O
+svAgawa	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+mEM	PRON	B-Person
+annA	PROPN	B-Loc
+aMwararARtrIya	PROPN	I-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+JariyA	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+gudZagAMva	PROPN	B-Loc
+se	ADP	O
+hIro	NOUN	B-Loc
+hoMdA	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+revAdZI	PROPN	B-Loc
+se	ADP	O
+kirwi	PROPN	B-Loc
+bigahA	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+maI	PROPN	O
+se	ADP	O
+bAltI	NOUN	O
+tEksI	NOUN	O
+se	ADP	O
+bArAmawI	PROPN	B-Loc
+se	ADP	O
+kAlikata	PROPN	B-Loc
+eyaraporta	NOUN	I-Loc
+waka	ADP	O
+
+meGA	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+SivAnI	PROPN	B-Person
+bobala	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+maMjarI	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+suxeSanA	PROPN	B-Person
+bijaniyA	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+jOnapura	PROPN	B-Loc
+se	ADP	O
+sirasA	PROPN	B-Loc
+waka	ADP	O
+mAlawI	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+mEM	PRON	B-Person
+jAmanagara	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+bAzkA	VERB	B-Loc
+jAnA	AUX	O
+cAhUMgA	ADV	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+kAnapura	PROPN	B-Loc
+se	ADP	O
+pawnI	NOUN	B-Loc
+kaMpyUtarsa	NOUN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+murSixAbAxa	PROPN	B-Loc
+se	ADP	O
+rAjapura	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mere	PRON	B-Person
+lie	ADP	O
+vAraMgala	PROPN	B-Loc
+meM	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+julAI	PROPN	O
+se	ADP	O
+buka	NOUN	O
+tEksI	NOUN	O
+ArA	PROPN	B-Loc
+se	ADP	O
+wejU	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+waka	ADP	O
+
+kabIna	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+kamAlikA	NOUN	B-Person
+laKAnI	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+kAmaxeva	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+kElASa	PROPN	B-Person
+GoRa	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+pabavI	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+amarohA	PROPN	B-Loc
+se	ADP	O
+goraKapura	PROPN	B-Loc
+waka	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+mEM	PRON	B-Person
+gvAliyara	PROPN	B-Loc
+eyaraporta	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+bArAmawI	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+mahArAjagaMja	PROPN	B-Loc
+se	ADP	O
+iPako	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+amalApurama	PROPN	B-Loc
+se	ADP	O
+bArIpaxA	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+karane	VERB	O
+ke	ADP	O
+lie	ADP	O
+jogabanI	PROPN	O
+
+ParavarI	PROPN	O
+meM	ADP	B-Person
+buka	NOUN	O
+tEksI	NOUN	O
+se	ADP	O
+SivagaMgA	PROPN	B-Loc
+se	ADP	O
+vijayavAdZA	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+waka	ADP	O
+
+ekawA	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+girirAja	PROPN	B-Person
+patavArI	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+anupamA	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+kqpayA	ADV	O
+cArabArA	NOUN	B-Person
+puMwAMbekara	VERB	I-Person
+ke	ADP	O
+lie	ADP	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+puswaka	NOUN	O
+kEba	NOUN	O
+ke	ADP	O
+lie	ADP	O
+xebasariwA	NOUN	B-Person
+se	ADP	O
+cUrU	PROPN	B-Loc
+se	ADP	O
+DeMkanAla	PROPN	B-Loc
+waka	ADP	O
+
+mEM	PRON	B-Person
+kAnapura	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+burahAnapura	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+barOnI	PROPN	B-Loc
+se	ADP	O
+iMdiyA	PROPN	B-Loc
+petroliyama	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+ruxraprayAga	PROPN	B-Loc
+se	ADP	O
+laKImapura-KIrI	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+ananwanAga	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+jUna	PROPN	O
+se	ADP	O
+buka	NOUN	O
+tEksI	NOUN	O
+paMsakudZA	PROPN	B-Loc
+se	ADP	O
+sonegAzva	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+waka	ADP	O
+
+viSvajIwa	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+sonA	PROPN	B-Person
+bexI	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+kuMjala	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+kqRNA	PROPN	B-Person
+labbe	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+kiwAba	NOUN	O
+kEba	NOUN	O
+ke	ADP	O
+lie	ADP	O
+jayaMwI	NOUN	B-Person
+se	ADP	O
+mUrI	PROPN	B-Loc
+se	ADP	O
+rAjamapeta	NOUN	B-Loc
+waka	ADP	O
+
+mEM	PRON	B-Person
+BAvanagara	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+cAsa	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+amalApurama	PROPN	B-Loc
+se	ADP	O
+bEMka	PROPN	B-Loc
+OYPa	PROPN	I-Loc
+badZOxA	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+paMcakulA	PROPN	B-Loc
+se	ADP	O
+naMxaxayAla	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+AgarA	PROPN	B-Loc
+ke	ADP	O
+lie	ADP	O
+mere	PRON	O
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+kapadZavaMja	PROPN	B-Loc
+se	ADP	O
+jabalapura	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+waka	ADP	O
+jUna	PROPN	O
+meM	ADP	O
+buka	X	O
+tEksI	NOUN	O
+
+kewakI	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+samrAta	NOUN	B-Person
+BAmarA	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+anaMwama	PROPN	B-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+prahalAxa	PROPN	B-Person
+boraha	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+puswaka	NOUN	O
+kEba	PROPN	O
+POYra	PROPN	O
+vAMmAlA	PROPN	B-Person
+se	ADP	O
+mEMgalora	PROPN	B-Loc
+se	ADP	O
+cakraXarapura	PROPN	B-Loc
+waka	ADP	O
+
+mEM	PRON	B-Person
+kotA	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+rAjakota	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+sAranAWa	PROPN	B-Loc
+se	ADP	O
+gela	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+udupI	PROPN	B-Loc
+se	ADP	O
+bAMsakATA	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+mere	PRON	B-Person
+lie	ADP	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+karane	VERB	O
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+nambaroMdA	PROPN	B-Loc
+se	ADP	O
+hubalI	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+waka	ADP	O
+xisambara	PROPN	O
+ko	ADP	O
+buka	X	O
+tEksI	NOUN	O
+
+agahanaSInI	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+hArxikA	PROPN	B-Person
+bEga	NOUN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+paxmA	PROPNB-Person
+ke	ADP	O
+lie	ADP	O
+puswaka	NOUN	O
+kEba	NOUN	O
+
+rAjana	PROPN	B-Person
+wowA	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+kqpayA	ADV	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+buka	NOUN	O
+kEba	NOUN	O
+ke	ADP	O
+lie	ADP	O
+SawruMja	PROPN	B-Person
+se	ADP	O
+bAlAGAta	PROPN	B-Loc
+se	ADP	O
+CiMxavAdZA	PROPN	B-Loc
+waka	ADP	O
+
+mEM	PRON	B-Person
+umaroI	PROPN	B-Loc
+havAI	PROPN	I-Loc
+adde	PROPN	I-Loc
+para	ADP	O
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+mEM	PRON	B-Person
+jAxUgodZA	PROPN	B-Loc
+jAnA	VERB	O
+cAhUMgA	VERB	O
+
+kyA	PRON	O
+mEM	PRON	B-Person
+baharIca	PROPN	B-Loc
+se	ADP	O
+AIsIAIsIAI	PROPN	B-Loc
+bEMka	PROPN	I-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kara	VERB	O
+sakawA	AUX	O
+hUM	AUX	O
+
+sAragapo	PROPN	B-Loc
+se	ADP	O
+hAWarasa	PROPN	B-Loc
+waka	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+SivakASI	NOUN	B-Loc
+ke	ADP	O
+lie	ADP	O
+mere	PRON	B-Person
+lie	ADP	O
+eka	NUM	O
+tEksI	NOUN	O
+vyavasWiwa	ADJ	O
+kareM	VERB	O
+
+SanivAra	PROPN	O
+ko	ADP	O
+buka	NOUN	O
+tEksI	NOUN	O
+se	ADP	O
+pUrvI	ADJ	B-Loc
+caMpAraNa	PROPN	I-Loc
+se	ADP	O
+sonArI	PROPN	B-Loc
+eyaraporta	PROPN	I-Loc
+waka	ADP	O
+
+SASvawa	NOUN	B-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O
+
+vikrAMwa	PROPN	B-Person
+ela	PROPN	I-Person
+ke	ADP	O
+lie	ADP	O
+eka	NUM	O
+kEba	NOUN	O
+buka	X	O
+kareM	VERB	O

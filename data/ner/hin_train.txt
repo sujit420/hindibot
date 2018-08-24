@@ -1,0 +1,3000 @@
+हिना  PROPN B-Person
+के  ADP O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+पुस्ती	NOUN B-Person
+दोषी	NOUN I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+मीठी	VERB B-Person
+के	ADP  O
+लिए	ADP O
+बुक	NUM O
+कैब	NOUN  O
+
+कृपया	ADV O
+भागीराथ	PROPN B-Person
+चंडोला	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+मैं	PRON  O
+तिरुपति	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  O
+हरदोई	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  O
+जालना	PROPN B-Loc
+से	ADP  O
+सहारा	PROPN B-Loc
+इंडिया	PROPN  I-Loc
+परिवार	NOUN I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+छिंदवाड़ा	PROPN B-Loc
+से	ADP  O
+धुबरी	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करने	VERB O
+के	ADP  O
+लिए	ADP O
+भेदचल	PROPN O
+
+मार्च	PROPN O
+से	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+आरा	PROPN B-Loc
+से	ADP  O
+जाली	ADJ  B-Loc
+ग्रांट	NOUN I-Loc
+एयरपोर्ट	NOUN I-Loc
+
+देवनिका	NOUN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+नीलकांत	ADJ B-Person
+पेवर	NOUN I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+रवि	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+मेनका	PROPN B-Person
+नायर	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+उमा	PROPN B-Person
+से	ADP  O
+उरमा	PROPN  B-Loc
+से	ADP  O
+जशपुर	PROPN B-Loc
+तक	ADP  O
+बुक	NOUN  O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+जैसलमेर	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+परिहार	NOUN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+घरौंडा	PROPN  B-Loc
+से	ADP  O
+युस्कवरीज	PROPN B-Loc
+समूह	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+बिजनौर	PROPN  B-Loc
+से	ADP  O
+रायचूर	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+जैनगर	PROPN B-Loc
+को	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+मार्च	PROPN O
+से	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+मालदा	PROPN B-Loc
+से	ADP  O
+जामनगर	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+लोकपरकाश	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+कृष्णा	PROPN  B-Person
+हलदर	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+कालीनडी	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+तुषार	PROPN B-Person
+धार	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+बीकानेर	PROPN B-Loc
+से	ADP  O
+उन्नाव	PROPN  B-Loc
+तक	ADP  O
+राशि	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+वाराणसी	PROPN B-Loc
+हवाई	NOUN I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+वडोदरा	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+संबलपुर	PROPN B-Loc
+से	ADP  O
+जेट	PROPN B-Loc
+एयरवेज	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+तेजपुर	PROPN  B-Loc
+से	ADP  O
+मोतिहारी	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+ऋषिकेश	PROPN  B-Loc
+के	ADP  O
+लिए	ADP O
+मेरे	PRON O
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+बुक	NOUN  O
+टैक्सी	NOUN O
+से	ADP  O
+दिसम्बर	PROPN O
+सेहाट	PROPN B-Loc
+से	ADP  O
+कुल्लू	PROPN  B-Loc
+एयरपोर्ट	PROPN  I-Loc
+तक	ADP  O
+
+Chatrica	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+इंदिरा	PROPN  B-Person
+थापर	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+मीना	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+तीर्थ	NOUN  B-Person
+खोंडकर	VERB I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+बुक	PROPN O
+कैब	PROPN O
+फॉर	PROPN O
+एर	PROPN  O
+से	ADP  O
+भड़ौच	PROPN B-Loc
+से	ADP  O
+जशपुर	PROPN B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+छत्रपति	PROPN B-Loc
+जाना	VERB O
+चाहता	VERB  O
+हूं	AUX O
+महाराज	PROPN  B-Loc
+शिवाजी	PROPN  I-Loc
+अंतरराष्ट्रीय	PROPN I-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+
+मैं	PRON  B-Person
+रायबरेली	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+रायबरेली	PROPN  B-Loc
+से	ADP  O
+हीरो	NOUN B-Loc
+होंडा	PROPN I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+हनम	PROPN B-Loc
+सेडा	NOUN I-Loc
+से	ADP  O
+कैरा	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करने	VERB O
+के	ADP  O
+लिए	ADP O
+अराकोणम	PROPN B-Loc
+
+बुकर	PROPN  O
+टैक्सी	PROPN  O
+पर	ADP  O
+वीरवार	PROPN  O
+से	ADP  O
+हुबली	PROPN B-Loc
+से	ADP  O
+बिलासपुर	PROPN  B-Loc
+एयरपोर्ट	NOUN I-Loc
+तक	ADP  O
+
+भाग्यलक्ष्मी	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+चंद्रा	PROPN  B-Person
+पतंग	NOUN I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+रवि	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+पूजा	NOUN B-Person
+तिरुमूलप	NOUN I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+बुक	PROPN O
+कैब	PROPN O
+फॉर	PROPN O
+कल्पिता	PROPN B-Person
+से	ADP  O
+जांगीपुर	PROPN  B-Loc
+से	ADP  O
+देवरिया	PROPN B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+छत्रपति	PROPN B-Loc
+जाना	VERB O
+चाहता	VERB  O
+हूं	AUX O
+महाराज	PROPN  B-Loc
+शिवाजी	PROPN  I-Loc
+अंतरराष्ट्रीय	PROPN I-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+
+मैं	PRON  B-Person
+होशियारपुर	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+तेनाली	PROPN  B-Loc
+से	ADP  O
+हीरो	NOUN B-Loc
+होंडा	PROPN I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+डेहरी	PROPN B-Loc
+से	ADP  O
+सुतालानगंज	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+बहराईच	PROPN  B-Loc
+के	ADP  O
+लिए	ADP O
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+बुक	NOUN  O
+टैक्सी	NOUN O
+से	ADP  O
+रविवार	PROPN  O
+से	ADP  O
+लेकर	VERB O
+जबलपुर	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+नेदा	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+सत्यवती	PROPN B-Person
+खन्ना	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+दिवाकर	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+कृपया	ADV O
+ऋषभ	PROPN B-Person
+हरी	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+कोलार	PROPN B-Loc
+से	ADP  O
+जसीडीह	PROPN  B-Loc
+तक	ADP  O
+नम्रता	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+तिरुपति	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+इटावा	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+बगहा	PROPN  B-Loc
+से	ADP  O
+भारती	PROPN B-Loc
+इंटरप्राइजेज	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+मुम्बई	PROPN  B-Loc
+से	ADP  O
+पोरबंदर	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+गुड़गांव	PROPN  B-Loc
+के	ADP  O
+लिए	ADP O
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+बुधवार	PROPN  O
+को	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+से	ADP  O
+मैगो	PROPN  B-Loc
+से	ADP  O
+श्रीनगर	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+पल्लवी	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+रंजन	PROPN  B-Person
+दश	NOUN I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+हर्षिनी	NOUN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+कामिनी	PROPN  B-Person
+जंपना	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+किताब	NOUN  O
+कैब	NOUN  O
+के	ADP  O
+लिए	ADP O
+उष्मा	NOUN  B-Loc
+से	ADP  O
+हरदोई	PROPN B-Loc
+से	ADP  O
+सासाराम	PROPN B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+वाराणसी	PROPN B-Loc
+हवाई	NOUN I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+जयनगर	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+बहरीईच	PROPN  B-Loc
+से	ADP  O
+वीडियोकॉन	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+राजमहल	NOUN B-Loc
+से	ADP  O
+मछलीपट्टनम	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+आगरा	PROPN  B-Loc
+के	ADP  O
+लिए	ADP O
+मेरे	PRON O
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+बोधगया	PROPN  B-Loc
+से	ADP  O
+राजमुंदरी	PROPN B-Loc
+एयरपोर्ट	NOUN I-Loc
+तक	ADP  O
+शनिचर	NOUN  O
+पर	ADP  O
+पुस्तक	NOUN O
+टैक्सी	NOUN O
+
+सुकुमार	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+वत्सल	PROPN B-Person
+सिंह	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+करुका	NOUN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+मधुलिका	PROPN B-Person
+द्विवेदी	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+जम्मगीपुर	PROPN B-Loc
+से	ADP  O
+तेनाली	PROPN  B-Loc
+तक	ADP  O
+यशोधरा	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+राष्ट्रीय	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+मेरथ	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+अगरतला	PROPN  B-Loc
+से	ADP  O
+नेशनल	PROPN B-Loc
+थर्मल	PROPN I-Loc
+पावर	PROPN  I-Loc
+निगम	PROPN  I-Loc
+एनटीपीसी	PROPN  B-Loc
+
+ईटानगर	PROPN  B-Loc
+से	ADP  O
+अररिया	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+आयोजित	ADJ  O
+करें	VERB O
+सरायकेला	PROPN  B-Loc
+खरसांवां	PROPN  I-Loc
+
+शनिवार	PROPN  O
+को	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+आपकुर	PROPN B-Loc
+से	ADP  O
+बिरसा	PROPN B-Loc
+मुंडा	PROPN I-Loc
+हवाई	NOUN I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+कृति	NOUN O
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+अभिए	PRON B-Person
+चंदावरकर	VERB I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+वैशाली	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+संदीप	PROPN B-Person
+वानगपंडु	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+पुस्तक	NOUN O
+कैब	PROPN O
+फॉर	PROPN O
+सृमोंटिनी	PROPN B-Loc
+से	ADP  O
+देवास	PROPN B-Loc
+से	ADP  O
+मधुबनी	PROPN  B-Loc
+तक	ADP  O
+
+मैं	PRON  O
+चंडीगढ़	PROPN B-Loc
+हवाई	NOUN I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+जूनागढ़	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+जोधपुर	PROPN  B-Loc
+से	ADP  O
+लार्सन	PROPN  B-Loc
+ऐंड	PROPN I-Loc
+टुब्रो	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+घाटशिला	PROPN B-Loc
+से	ADP  O
+नंददेड़	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करने	VERB O
+के	ADP  O
+लिए	ADP O
+बिहिया	VERB O
+
+पुस्तक	NOUN O
+टैक्सी	NOUN O
+पर	ADP  O
+वीरवार	PROPN  O
+से	ADP  O
+पतरातू	NOUN B-Loc
+से	ADP  O
+लेकरननगर	PROPN  B-Loc
+हवाई	NOUN I-Loc
+अड्डे	NOUN  I-Loc
+तक	ADP  O
+
+विष्णु	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+संचीता	NOUN B-Person
+संकरमंची	NOUN I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+अमोल	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+कृपया	ADV O
+पार्ता	NOUN B-Person
+मराज	NOUN I-Person
+के	ADP  O
+लिए	ADP O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+पोर्ट	PROPN B-Loc
+ब्लेयर	PROPN  I-Loc
+से	ADP  O
+भीनमाल	PROPN  B-Loc
+तक	ADP  O
+सम्राट	NOUN O
+के	ADP  O
+लिए	ADP O
+बुक	X O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+राजा	NOUN B-Loc
+साँसी	PROPN I-Loc
+हवाई	PROPN  I-Loc
+अंतरराष्ट्रीय	PROPN I-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+जगदलपुर	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+चक्रधरपुर	PROPN B-Loc
+से	ADP  O
+जिंदल	PROPN B-Loc
+स्टील	PROPN I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+भद्राचल	PROPN B-Loc
+से	ADP  O
+लामडिंग	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मंदसौर	PROPN B-Loc
+के	ADP  O
+लिए	ADP O
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+शनिवार	PROPN  O
+को	ADP  O
+सीतापुर	PROPN B-Loc
+से	ADP  O
+कोयंबतूर	PROPN  B-Loc
+एयरपोर्ट	PROPN  I-Loc
+तक	ADP  O
+बुक	X O
+टैक्सी	NOUN O
+
+गुरु	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+हरिलाल	PROPN  B-Person
+मुदरता	NOUN I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+रूपिन	NOUN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+विजय	PROPN  B-Person
+पलाला	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+पुस्तक	NOUN O
+कैब	NOUN  O
+के	ADP  O
+लिए	ADP O
+इल	PROPN  O
+से	ADP  O
+कोल्हापुर	PROPN B-Loc
+से	ADP  O
+लखीसराय	PROPN B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+बिरसा	PROPN B-Loc
+मुंडा	PROPN I-Loc
+हवाई	NOUN I-Loc
+अड्डे	NOUN  I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+इंफाल	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+प्रदीपेट	PROPN  B-Loc
+से	ADP  O
+यूनियन	PROPN  B-Loc
+बैंक	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+चुनार	NOUN  B-Loc
+से	ADP  O
+करनाल	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करने	VERB O
+के	ADP  O
+लिए	ADP O
+अंबाला	PROPN  B-Loc
+
+शिवगंगा	PROPN B-Loc
+से	ADP  O
+बिरसा	PROPN B-Loc
+मुंडा	PROPN I-Loc
+एयरपोर्ट	NOUN I-Loc
+तक	ADP  O
+शनिचर	NOUN  O
+पर	ADP  O
+पुस्तक	NOUN O
+टैक्सी	NOUN O
+
+शैलेंद्र	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+मनु	PROPN B-Person
+सेठी	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+हिमानी	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+एक्चूमति	NOUN B-Person
+बपत	NOUN  I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+filalaur	PROPN  B-Loc
+से	ADP  O
+पटियाला	PROPN B-Loc
+तक	ADP  O
+निर्मल	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+कानपुर	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+हापुड़	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+चक्रधरपुर	PROPN B-Loc
+से	ADP  O
+अपोलो	PROPN B-Loc
+अस्पताल	PROPN I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+राजकोट	PROPN  B-Loc
+से	ADP  O
+घोड़ीघर	NOUN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+आदिलाबाद	PROPN  B-Loc
+के	ADP  O
+लिए	ADP O
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+शुक्रवार	PROPN  O
+को	ADP  O
+बुकका	VERB  O
+टैक्सी	NOUN O
+से	ADP  O
+कालका	PROPN B-Loc
+से	ADP  O
+बिलासपुर	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+विक्रमेंडरा	NOUN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+जानु	PROPN  B-Person
+लाला	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+मणिशंकर	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+शैला	PROPN  B-Person
+मल्होत्रा	PROPN I-Person
+​​के	PRON O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+जोगबनी	PROPN  B-Loc
+से	ADP  O
+इंडिपेट	NOUN  B-Loc
+तक	ADP  O
+भूमि	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+गगगल	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+दिसपुर	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+शोलापुर	PROPN B-Loc
+से	ADP  O
+अदानी	PROPN B-Loc
+समूह	PROPN  I-Loc
+तक	ADP    O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+बरौनी	PROPN B-Loc
+से	ADP  O
+इटावा	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+हाफ	NOUN  B-Person
+लांग	NOUN I-Person
+के	ADP  O
+लिए	ADP O
+मेरे	PRON O
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+अक्टूबर	PROPN O
+से	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+लोहरदग्गा	PROPN B-Loc
+से	ADP  O
+जम्मू	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+प्रेमल	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+सुदेवी	PROPN  B-Person
+डी'कोस्टा	NOUN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+उर्मिला	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+शशांक	PROPN B-Person
+भार्गवा	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+चित्तौड़गढ़	PROPN B-Loc
+से	ADP  O
+कुरुक्षेत्र	PROPN B-Loc
+तक	ADP  O
+स्वागत	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+अन्ना	PROPN B-Loc
+अंतरराष्ट्रीय	PROPN I-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+झरिया	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+गुड़गांव	PROPN  B-Loc
+से	ADP  O
+हीरो	NOUN B-Loc
+होंडा	PROPN I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+रेवाड़ी	PROPN B-Loc
+से	ADP  O
+किर्ति	PROPN  B-Loc
+बिगहा	PROPN I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+मई	PROPN  O
+से	ADP  O
+बाल्टी	NOUN O
+टैक्सी	NOUN O
+से	ADP  O
+बारामती	PROPN B-Loc
+से	ADP  O
+कालिकट	PROPN  B-Loc
+एयरपोर्ट	NOUN I-Loc
+तक	ADP  O
+
+मेघा	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+शिवानी	PROPN  B-Person
+बोबल	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+मंजरी	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+सुदेशना	PROPN B-Person
+बिजनिया	NOUN  I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+जौनपुर	PROPN  B-Loc
+से	ADP  O
+सिरसा	PROPN B-Loc
+तक	ADP  O
+मालती	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+जामनगर	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+बाँका	VERB  B-Loc
+जाना	AUX  O
+चाहूंगा	ADV O
+
+क्या	PRON O
+मैं	PRON  B-Person
+कानपुर	PROPN  B-Loc
+से	ADP  O
+पत्नी	NOUN  B-Loc
+कंप्यूटर्स	NOUN I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+मुर्शिदाबाद	PROPN B-Loc
+से	ADP  O
+राजपुर	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+वारंगल	PROPN  B-Loc
+में	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+जुलाई	PROPN O
+से	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+आरा	PROPN B-Loc
+से	ADP  O
+तेजू	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+कबीन	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+कमालिका	NOUN  B-Person
+लखानी	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+कामदेव	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+कैलाश	PROPN B-Person
+घोष	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+पबवी	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+अमरोहा	PROPN  B-Loc
+से	ADP  O
+गोरखपुर	PROPN B-Loc
+तक	ADP  O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+ग्वालियर	PROPN  B-Loc
+एयरपोर्ट	PROPN  I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+बारामती	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+महाराजगंज	PROPN B-Loc
+से	ADP  O
+इफको	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+अमलापुरम	PROPN  B-Loc
+से	ADP  O
+बारीपदा	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करने	VERB O
+के	ADP  O
+लिए	ADP O
+जोगबनी	PROPN  O
+
+फरवरी	PROPN O
+में	ADP B-Person
+बुक	NOUN  O
+टैक्सी	NOUN O
+से	ADP  O
+शिवगंगा	PROPN B-Loc
+से	ADP  O
+विजयवाड़ा	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+एकता	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+गिरिराज	PROPN B-Person
+पटवारी	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+अनुपमा	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+कृपया	ADV O
+चारबारा	NOUN  B-Person
+पुंतांबेकर	VERB I-Person
+के	ADP  O
+लिए	ADP O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+पुस्तक	NOUN O
+कैब	NOUN  O
+के	ADP  O
+लिए	ADP O
+देबसरिता	NOUN B-Person
+से	ADP  O
+चूरू	PROPN  B-Loc
+से	ADP  O
+ढेंकनाल	PROPN B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+कानपुर	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+बुरहानपुर	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+बरौनी	PROPN B-Loc
+से	ADP  O
+इंडिया	PROPN  B-Loc
+पेट्रोलियम	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+रुद्रप्रयाग	PROPN B-Loc
+से	ADP  O
+लखीमपुर-खीरी	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+अनन्तनाग	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+जून	PROPN O
+से	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+पंसकुड़ा	PROPN  B-Loc
+से	ADP  O
+सोनेगाँव	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+विश्वजीत	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+सोना	PROPN  B-Person
+बेदी	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+कुंजल	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+कृष्णा	PROPN  B-Person
+लब्बे	NOUN  I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+किताब	NOUN  O
+कैब	NOUN  O
+के	ADP  O
+लिए	ADP O
+जयंती	NOUN  B-Person
+से	ADP  O
+मूरी	PROPN  B-Loc
+से	ADP  O
+राजमपेट	NOUN  B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+भावनगर	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+चास	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+अमलापुरम	PROPN  B-Loc
+से	ADP  O
+बैंक	PROPN  B-Loc
+ऑफ	PROPN  I-Loc
+बड़ौदा	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+पंचकुला	PROPN B-Loc
+से	ADP  O
+नंददयाल	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+आगरा	PROPN  B-Loc
+के	ADP  O
+लिए	ADP O
+मेरे	PRON O
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+कपड़वंज	PROPN B-Loc
+से	ADP  O
+जबलपुर	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+जून	PROPN O
+में	ADP O
+बुक	X O
+टैक्सी	NOUN O
+
+केतकी	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+सम्राट	NOUN B-Person
+भामरा	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+अनंतम	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+प्रहलाद	PROPN B-Person
+बोरह	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+पुस्तक	NOUN O
+कैब	PROPN O
+फॉर	PROPN O
+वांमाला	PROPN B-Person
+से	ADP  O
+मैंगलोर	PROPN B-Loc
+से	ADP  O
+चक्रधरपुर	PROPN B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+कोटा	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+राजकोट	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+सारनाथ	PROPN  B-Loc
+से	ADP  O
+गेल	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+उडुपी	PROPN B-Loc
+से	ADP  O
+बांसकाठा	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करने	VERB O
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+नम्बरोंडा	PROPN B-Loc
+से	ADP  O
+हुबली	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+दिसम्बर	PROPN O
+को	ADP  O
+बुक	X O
+टैक्सी	NOUN O
+
+अगहनशीनी	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+हार्दिका	PROPN  B-Person
+बैग	NOUN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+पद्मा	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+राजन	PROPN  B-Person
+तोता	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+बुक	NOUN  O
+कैब	NOUN  O
+के	ADP  O
+लिए	ADP O
+शत्रुंज	PROPN B-Person
+से	ADP  O
+बालाघाट	PROPN B-Loc
+से	ADP  O
+छिंदवाड़ा	PROPN B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+उमरोई	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+जादूगोड़ा	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+बहरीच	PROPN B-Loc
+से	ADP  O
+आईसीआईसीआई	PROPN  B-Loc
+बैंक	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+सारगपो	PROPN  B-Loc
+से	ADP  O
+हाथरस	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+शिवकाशी	NOUN  B-Loc
+के	ADP  O
+लिए	ADP O
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+शनिवार	PROPN  O
+को	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+से	ADP  O
+पूर्वी	ADJ  B-Loc
+चंपारण	PROPN  I-Loc
+से	ADP  O
+सोनारी	PROPN  B-Loc
+एयरपोर्ट	PROPN  I-Loc
+तक	ADP  O
+
+शाश्वत	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+विक्रांत	PROPN  B-Person
+एल	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+रूपिन	NOUN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+स्नेहल	PROPN  B-Person
+केपर	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+किताब	NOUN  O
+कैब	NOUN  O
+के	ADP  O
+लिए	ADP O
+उत्पल	PROPN B-Person
+से	ADP  O
+जामाडोबा	PROPN  B-Loc
+से	ADP  O
+नगरकुरनूल	PROPN I-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+कोटा	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+तिरुअनन्तपुरम	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  O
+सिरी	PROPN  B-Loc
+से	ADP  O
+भारत	PROPN  B-Loc
+पेट्रोलियम	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+झाज़ा	PROPN B-Loc
+से	ADP  O
+मंगलदोई	PROPN I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करने	VERB O
+के	ADP  O
+लिए	ADP O
+गासावाँ	NOUN  B-Loc
+
+बुक	NOUN  O
+टैक्सी	NOUN O
+पर	ADP  O
+बृहस्पतिवार	PROPN O
+से	ADP  O
+तिरुअनन्तपुरम	PROPN B-Loc
+से	ADP  O
+लेह	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+कलावती	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+अरका	PROPN  B-Person
+ठुकराल	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+जसराज	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+कृपया	PROPN O
+प्रमत	NOUN  B-Person
+के	ADP  O
+लिए	ADP O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+काजल	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+बेतिया	PROPN  B-Loc
+से	ADP  O
+मुजफ्फरपुर	PROPN  B-Loc
+तक	ADP  O
+बुक	X O
+करें	VERB O
+
+मैं	PRON  B-Person
+शिमला	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+राजमपेट	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+झुमरी	PROPN B-Loc
+तिलैया	PROPN  I-Loc
+से	ADP  O
+भारतीय	PROPN  B-Loc
+इस्पात	PROPN  I-Loc
+प्राधिकरण	PROPN I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+मैथन	NOUN B-Loc
+से	ADP  O
+हाफलांग	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+उन्माद	NOUN B-Loc
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+फरवरी	PROPN O
+से	ADP  O
+सिरी	PROPN  B-Loc
+से	ADP  O
+चेन्नई	PROPN  B-Loc
+तक	ADP  O
+बुक	NOUN  O
+टैक्सीगा	NOUN O
+हवाई	NOUN B-Loc
+अड्डे	NOUN  I-Loc
+
+मंजरी	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+वैशाली	PROPN  B-Person
+मजूमदार	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+मारला	NOUN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+कृपया	ADV O
+दक्ष	NOUN B-Person
+मल्लादी	NOUN  I-Person
+के	ADP  O
+लिए	ADP O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+बुक	PROPN O
+कैब	PROPN O
+फॉर	PROPN O
+रुक्मिणी	PROPN  B-Person
+से	ADP  O
+चिक्कोड़ी	NOUN  B-Loc
+से	ADP  O
+नेल्लोर	PROPN B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Loc
+नेताजी	NOUN B-Loc
+सुभाषचंद्र	PROPN  I-Loc
+बोस	PROPN I-Loc
+अंतरराष्ट्रीय	PROPN I-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+हासन	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	ADV O
+
+क्या	PRON O
+मैं	PRON  B-Person
+घरौंडा	PROPN  B-Loc
+से	ADP  O
+लार्सन	PROPN  B-Loc
+ऐंड	PROPN I-Loc
+टुब्रो	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+दौसा	PROPN  B-Loc
+से	ADP  O
+दुमका	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+झाबुआ	PROPN B-Loc
+के	ADP  O
+लिए	ADP O
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+जुलाई	PROPN O
+से	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+बेतिया	PROPN  B-Loc
+से	ADP  O
+लेकर	VERB O
+अंतरराष्ट्रीय	PROPN B-Loc
+हवाई	NOUN I-Loc
+अड्डे	NOUN  I-Loc
+तक	ADP  O
+
+सृनीवास	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+ऋषभ	PROPN B-Person
+रद्दीर	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+विद्याधर	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+अमृता	PROPN B-Person
+गायों	NOUN  I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+श्वेतंग	PROPN B-Person
+से	ADP  O
+देवघर	PROPN B-Loc
+से	ADP  O
+पुलवामा	PROPN B-Loc
+तक	ADP  O
+बुक	NOUN  O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+ग्वालियर	PROPN  B-Loc
+एयरपोर्ट	PROPN  I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+झांझारपुर	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+कालीबोर	PROPN B-Loc
+से	ADP  O
+एनआईआईटी	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+गुवाहाटी	PROPN  B-Loc
+से	ADP  O
+सिरसा	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+सोनपुर	PROPN  B-Loc
+में	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+अक्टूबर	PROPN O
+से	ADP  O
+थाणे	NOUN B-Loc
+से	ADP  O
+इंदिरा	PROPN  B-Loc
+गाँधी	PROPN I-Loc
+अंतरराष्ट्रीय	PROPN I-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+
+शैलेश	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+गिटिका	PROPN  B-Person
+चिया	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+पल्लवी	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+रंजीत	PROPN B-Person
+पालीवाल	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+निकुंज	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+निकरंज	NOUN B-Loc
+तक	ADP  O
+बुक	NOUN  O
+कैब	NOUN  O
+से	ADP  O
+ग्रेटर	PROPN  B-Loc
+नोएडा	PROPN I-Loc
+
+मैं	PRON  B-Person
+बीजू	PROPN  B-Loc
+पटनायक	PROPN  I-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+दिसपुर	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+धनबाद	PROPN B-Loc
+से	ADP  O
+नेवेली	PROPN  B-Loc
+लिग्नाइट	PROPN  I-Loc
+निगम	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+मथुरा	PROPN B-Loc
+से	ADP  O
+अनन्तनाग	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+श्रीकाकुलम	PROPN  B-Loc
+
+अप्रैल	PROPN  O
+से	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+तिरुनावेली	PROPN  B-Loc
+से	ADP  O
+ग्वालियर	PROPN  B-Loc
+एयरपोर्ट	PROPN  I-Loc
+
+निरुपमा	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+धैन्स	PROPN B-Person
+कलीता	NOUN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+सुरबी	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+कृपया	ADV O
+रमन	PROPN B-Person
+दक्षिणी	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+बुक	NOUN  O
+कैब	NOUN  O
+के	ADP  O
+लिए	ADP O
+आरषि	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+ग्रेटर	PROPN  B-Loc
+नोएडा	PROPN I-Loc
+से	ADP  O
+घोर्जिडीहा	PROPN  B-Loc
+
+मैं	PRON  B-Person
+राजमुंदरी	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+फुलबनी	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+राजमुंदरी	PROPN B-Loc
+से	ADP  O
+एयर	PROPN B-Loc
+सहारा	PROPN I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+मदुरै	PROPN B-Loc
+से	ADP  O
+लोहरदग्गा	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करने	VERB O
+के	ADP  O
+लिए	ADP O
+
+अप्रैल	PROPN  O
+से	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+कुल्लू	PROPN  B-Loc
+से	ADP  O
+लोकप्रिय	ADJ  B-Loc
+गोपीनाथ	PROPN I-Loc
+बारदोई	PROPN  I-Loc
+अंतरराष्ट्रीय	PROPN I-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+
+हर्षद	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+जानु	PROPN  B-Person
+सपरू	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+शार्दुल	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+रूपेश	PROPN B-Person
+मंगत	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+चंदिल	PROPN B-Loc
+से	ADP  O
+विवाह	NOUN  B-Loc
+तक	ADP  O
+नीति	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+मैं	PRON  B-Person
+हुबली	PROPN B-Loc
+हवाई	NOUN I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+पानीपत	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+झुमरी	PROPN B-Loc
+तिलैया	PROPN  I-Loc
+से	ADP  O
+रिलायंस	PROPN B-Loc
+इंडस्ट्रीज	PROPN  I-Loc
+
+सिवनी	PROPN B-Loc
+से	ADP  O
+चिकबलपुर	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+सिलचर	PROPN B-Loc
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+सितंबर	PROPN  O
+को	ADP  O
+चामराजनगर	PROPN B-Loc
+से	ADP  O
+बेलगाँव	PROPN B-Loc
+एयरपोर्ट	PROPN  I-Loc
+तक	ADP  O
+बुक	X O
+टैक्सी	NOUN O
+
+तापस	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+धर्मेन्डरा	PROPN  B-Person
+भाटिया	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+परीकेट	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+अनंत	PROPN  B-Person
+परदेशी	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+बुक	NOUN  O
+कैब	NOUN  O
+के	ADP  O
+लिए	ADP O
+ममता	PROPN  B-Person
+से	ADP  O
+कोलार	PROPN B-Loc
+से	ADP  O
+कुल्लू	PROPN  B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+राजीव	PROPN B-Loc
+गाँधी	PROPN I-Loc
+अंतरराष्ट्रीय	PROPN I-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+पटियाला	PROPN B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+गढ़वा	PROPN B-Loc
+से	ADP  O
+हिंदुस्तान	PROPN  B-Loc
+पेट्रोलियम	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+उधमपुर	PROPN  B-Loc
+से	ADP  O
+दुमका	PROPN B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करने	VERB O
+के	ADP  O
+लिए	ADP O
+डाल्टेनगंज	PROPN  B-Loc
+
+बुकर	PROPN  O
+टैक्सी	PROPN  O
+से	ADP  O
+दिसंबर	PROPN  O
+तक	ADP  O
+बोकारो	PROPN  B-Loc
+से	ADP  O
+जम्मू	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+तारा	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+दिव्या	PROPN  B-Person
+नदवी	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+तारा	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+किताब	NOUN  O
+कैब	NOUN  O
+
+हर्षवर्धन	PROPN B-Person
+दावे	NOUN I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+पुस्तक	NOUN O
+कैब	NOUN  O
+के	ADP  O
+लिए	ADP O
+अल्ट	PROPN  O
+से	ADP  O
+चित्तौगढ़	PROPN B-Loc
+से	ADP  O
+कोलाबा	PROPN  B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+उमरोई	PROPN B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+आगरा	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+भावनगर	PROPN  B-Loc
+से	ADP  O
+टाटा	PROPN  B-Loc
+समूह	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+दुमका	PROPN B-Loc
+से	ADP  O
+मधुबनी	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+नलगोंडा	PROPN B-Loc
+के	ADP  O
+लिए	ADP O
+मेरे	PRON B-Person
+लिए	ADP O
+एक	NUM  O
+टैक्सी	NOUN O
+व्यवस्थित	ADJ O
+करें	VERB O
+
+अक्टूबर	PROPN O
+से	ADP  O
+बुक	NOUN  O
+टैक्सी	NOUN O
+डिंडीगुल	PROPN  B-Loc
+से	ADP  O
+मंगलोर	PROPN  B-Loc
+एयरपोर्ट	PROPN  I-Loc
+तक	ADP  O
+
+चंद्रक	PROPN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+अभिजीत	PROPN  B-Person
+कलिता	PROPN I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+भूपेन	PROPN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+
+प्रसन्नना	NOUN  B-Person
+वलीपरामबील	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+कृपया	ADV O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+प्राप्ति	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O
+विवाह	NOUN  B-Loc
+से	ADP  O
+मुरादाबाद	PROPN B-Loc
+तक	ADP  O
+
+मैं	PRON  B-Person
+बिरसा	PROPN B-Loc
+मुंडा	PROPN I-Loc
+हवाई	NOUN I-Loc
+अड्डे	NOUN  I-Loc
+पर	ADP  O
+जाना	VERB O
+चाहूंगा	VERB  O
+
+मैं	PRON  B-Person
+हिंदौन	PROPN  B-Loc
+जाना	VERB O
+चाहूंगा	VERB  O
+
+क्या	PRON O
+मैं	PRON  B-Person
+पंढरपुर	PROPN B-Loc
+से	ADP  O
+हिंदुस्तान	PROPN  B-Loc
+पेट्रोलियम	PROPN  I-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+कर	VERB O
+सकता	AUX  O
+हूं	AUX O
+
+सिरोही	PROPN  B-Loc
+से	ADP  O
+कैरा	PROPN  B-Loc
+तक	ADP  O
+एक	NUM  O
+टैक्सी	NOUN O
+बुक	X O
+करें	VERB O
+
+शनिचर	NOUN  O
+पर	ADP  O
+पुस्तक	NOUN O
+टैक्सी	NOUN O
+से	ADP  O
+बोधगया	PROPN  B-Loc
+से	ADP  O
+भावनगर	PROPN  B-Loc
+हवाई	PROPN  I-Loc
+अड्डे	PROPN I-Loc
+तक	ADP  O
+
+पलस्करा	NOUN  B-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+महाबाला	PROPN B-Person
+सेठी	PROPN  I-Person
+के	ADP  O
+लिए	ADP O
+एक	NUM  O
+कैब	NOUN  O
+बुक	X O
+करें	VERB O
+
+प्रतिगया	NOUN B-Person
+के	ADP  O
+लिए	ADP O
+पुस्तक	NOUN O
+कैब	NOUN  O

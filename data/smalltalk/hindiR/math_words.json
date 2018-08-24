@@ -1,0 +1,46 @@
+{
+  "numbers" : {
+    "eka": 1,
+    "xo": 2,
+    "wIna": 3,
+    "cAra": 4,
+    "pAMca": 5,
+    "CaH": 6,
+    "sAwa": 7,
+    "ATa": 8,
+    "nO": 9,
+    "xasa": 10,
+    "gyAraha": 11,
+    "bAraha": 12,
+    "weraha": 13,
+    "cOxaha": 14,
+    "paMxraha": 15,
+    "solaha": 16,
+    "sawraha": 17,
+    "aTAraha": 18,
+    "unnIsavIM": 1 9,
+    "bIsa": 20,
+    "wIsa": 30,
+    "cAlIsa": 40,
+    "pacAsa": 50,
+    "sATa": 60,
+    "sawwara": 70,
+    "assI": 80,
+    "nabbe": 90
+  },
+  _"words"_ : {
+    "plasa": "+",
+    "xvArA viBAjiwa" : "/",
+    "mAinasa": "-",
+    "bAra": "*",
+    "varga": "^ 2",
+    "kI Sakwi ke lie": "^"
+  },
+  _"scales"_ : {
+    "sO": "* 100",
+    "hajAra": "* 1000",
+    "miliyana": "* 1000000",
+    "araba": "* 1000000000",
+    "triliyana": "* 1000000000000"
+  }
+}
