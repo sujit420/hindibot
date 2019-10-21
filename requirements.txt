@@ -20,7 +20,7 @@ jmespath==0.9.3
 MatchZoo==0.2.0
 mercurial==4.5.3
 msgpack-python==0.5.1
-nltk==3.3
+nltk==3.4.5
 numpy==1.14.4
 pbr==4.0.3
 protobuf==3.6.0
