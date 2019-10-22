@@ -26,7 +26,7 @@ pbr==4.0.3
 protobuf==3.6.0
 pyahocorasick==1.1.8
 pyenchant==1.6.8
-pyspark==2.3.0
+pyspark==2.3.2
 python-dateutil==2.7.3
 requests==2.19.1
 s3transfer==0.1.13
